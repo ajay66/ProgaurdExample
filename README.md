@@ -1,3 +1,3 @@
 # ProgaurdExample
 Proguard Example
-jh
+Sample ProGuard Example.
